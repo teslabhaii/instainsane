@@ -1,0 +1,2 @@
+# instainsane
+brute f attack 
